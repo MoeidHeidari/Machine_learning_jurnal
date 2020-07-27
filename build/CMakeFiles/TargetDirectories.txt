@@ -1,0 +1,3 @@
+/Users/moeidheidari/Desktop/Machine_learning_jurnal/build/CMakeFiles/rebuild_cache.dir
+/Users/moeidheidari/Desktop/Machine_learning_jurnal/build/CMakeFiles/edit_cache.dir
+/Users/moeidheidari/Desktop/Machine_learning_jurnal/build/CMakeFiles/Machine_Learning_jurnal.dir
